@@ -1,0 +1,47 @@
+
+/* General use */
+
+
+/* A revoir ! 
+
+.policeLogoTitre {
+    font-family: Shrikhand;
+}
+*/
+
+/* A revoir !
+
+.policeTexte {
+    font-family: Roboto;
+}
+
+*/
+
+.couleurPrimaire {
+    color: #9356dc;
+}
+
+.couleurSecondaire {
+    color: #ff79da;
+}
+
+.couleurTertiaire {
+    color: #99e2d0;
+}
+
+
+/* SECTION RESTAURANTS */
+
+.vignetteRestaurant {
+    border-radius: 25px;
+}
+
+.photosRestaurants {
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+    border-radius: 25px 25px 0 0;
+}
+
+
+/* ~~ */
