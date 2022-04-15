@@ -1,0 +1,19 @@
+{
+  "name": "p3_cogourdant_martin",
+  "version": "1.0.0",
+  "description": "\"# CogourdantMartin_3_16022022\"",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass/style.scss:CSS/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Namouke/CogourdantMartin_3_16022022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Namouke/CogourdantMartin_3_16022022/issues"
+  },
+  "homepage": "https://github.com/Namouke/CogourdantMartin_3_16022022#readme"
+}
