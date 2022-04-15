@@ -1,9 +1,3 @@
 
-@import url(footer.scss);
-@import url(generalUse.scss);
-
-
-.footer {
-    background-color: $colorGris;
-    padding: 20px;
-}
+@import "_variables.scss";
+@import "_general.scss"
